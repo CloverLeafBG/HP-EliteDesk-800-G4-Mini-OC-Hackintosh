@@ -1,7 +1,7 @@
 # HP-EliteDesk-800-G4-Mini-OC-Hackintosh
 
 
-OpenCore based EFI for HP EliteDesk 800 G4 Mini 35W. EFI folder should also work with EliteDesk 800 G5 Mini (i3,i5,i7,i9), ProDesk 600 G4/G5 Mini and ProDesk 400 G4/G5 mini. Both Monterey EFI and Ventura EFI uploaded.
+OpenCore based EFI for HP EliteDesk 800 G4 Mini 35W. EFI folder should also work with EliteDesk 800 G5 Mini, ProDesk 600 G4/G5 Mini and ProDesk 400 G4/G5 Mini.
 
 
 ![hp](https://user-images.githubusercontent.com/93620854/212490075-5390ef5f-fd90-4c76-ad38-4487d1f2bc08.png)
